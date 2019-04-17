@@ -1,0 +1,4 @@
+qt/qt_libbitcoinvenezuelaqt_a-qrc_bitcoinvenezuela_locale.o: \
+ qt/qrc_bitcoinvenezuela_locale.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
